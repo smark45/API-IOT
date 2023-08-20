@@ -1,2 +1,2 @@
 # API_smart
-API en nodeJS
+API creada en node JS (express) para interconectar dispositivos IOT
